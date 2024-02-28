@@ -1,0 +1,323 @@
+{
+  "basics": {
+    "name": "Gonzalo Lobo",
+    "label": "Desarrollador Web con 2 años de experiencia, enfocado en Front End ",
+    "image": "/gln.jpg",
+    "email": "gnzlo.dev@gmail.com",
+    "phone": "+58 3816040781",
+    "url": "https://www.linkedin.com/in/gonzaloln",
+    "summary": "Mi nombre es Gonzalo, mis amigos me dicen zalogon. Construyo cosas web. Empece a programar hace 3 años y desde ese momento descubri una pasion por resolver problemas y dar soluciones.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "SMT - Tucumán",
+      "countryCode": "AR",
+      "region": "Argentina"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "midudev",
+        "url": "https://www.linkedin.com/in/gonzaloln"
+      },
+
+      {
+        "network": "GitHub",
+        "username": "GonzaloLobo",
+        "url": "https://github.com/GonzaloLobo"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Got Me Media - MX",
+      "position": "Desarrollador Web - Trainee",
+      "url": "https://www.facebook.com/GotMeMedia/",
+      "startDate": "2022-09-5",
+      "endDate": "2023-07-28",
+      "summary": "Puesto de desarrollo totalmente remoto. Trabajé junto a un equipo de 9 personas de diferentes areas. Construí aplicaciones frontend robustas, tambien realice funcionalidades para estás aplicaciones. Algunas tecnologias utilizadas: HTML, CSS, Bootstrap, MySQL, Flutter, Javascript, PHP, Wordpress, Laravel. ",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+    
+    
+  ],
+  
+  "education": [{
+    "institution": "Platzi",
+    "url": "https://platzi.com/p/GonzaloLn/curso/1066-posicionamiento-buscadores-2017/diploma/detalle/",
+    "area": "SEO - Posicionamiento en buscadores",
+    "studyType": "courses",
+    "startDate": "2019-03-15",
+    "endDate": "2019-04-02",
+    "score": "10",
+    "courses": [
+      "SEO - Posicionamiento en buscadores  "
+    ]
+  },
+  {
+    "institution": "Platzi",
+    "url": "https://platzi.com/p/GonzaloLn/curso/1544-posicionamiento-marca/diploma/detalle/  ",
+    "area": "Posicionamiento de Marca en Medios Digitales",
+    "studyType": "courses",
+    "startDate": "2019-09-01",
+    "endDate": "2019-09-01",
+    "score": "10",
+    "courses": [
+      "Posicionamiento de Marca en Medios Digitales"
+    ]
+  },
+  {
+    "institution": "CoderHouse",
+    "url": "https://www.coderhouse.com/ar/certificados/624df0569e812b0019109265?lang=es",
+    "area": "Desarrollo Web",
+    "studyType": "courses",
+    "startDate": "2023-11-01",
+    "endDate": "2023-11-14",
+    "score": "10",
+    "courses": [
+      "Desarrollo Web"
+    ]
+  },
+  {
+    "institution": "Platzi",
+    "url": "https://drive.google.com/file/d/1iH_jVG5H2IbrMIS-7-X-MLluVJA4tUpj/view?usp=sharing",
+    "area": "Basico de Javascript",
+    "studyType": "courses",
+    "startDate": "2023-11-01",
+    "endDate": "2023-11-14",
+    "score": "10",
+    "courses": [
+      "Básico de Javascript"
+    ]
+  },
+  {
+    "institution": "Codigo Facilito",
+    "url": "https://drive.google.com/file/d/1-36UEkYrYkPySm8PhdB9-ceOwkz0aYk9/view?usp=sharing",
+    "area": "Accesibilidad Web",
+    "studyType": "courses",
+    "startDate": "2023-11-01",
+    "endDate": "2023-11-14",
+    "score": "10",
+    "courses": [
+      "Accesibilidad Web"
+    ]
+  }
+  ],
+  
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Mid",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Mid",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Junior",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Sass",
+      "level": "Mid",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework"
+      ]
+    },
+    {
+      "name": "PHP",
+      "level": "Junior",
+      "keywords": [
+        "Desarrollo Web", "Backend"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "Laravel",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend"    ]
+    },
+    {
+      "name": "Flutter",
+      "level": "Junior",
+      "keywords": [
+        "Desarrollo Movil", "Frontend", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "Event XV",
+      "isActive": true,
+      "description": "Pagina promocional para aplicación de ventas de servicios en eventos de 15 años",
+      "highlights": [
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "Laravel","MySQL"
+      ],
+      "url": "https://eventxv.com/"
+    },
+    {
+      "name": "KaliDK",
+      "isActive": true,
+      "description": "Tienda web con carrito de compra y chat integrado",
+      "highlights": [ 
+        "Tienda de muebles",
+        "Wordpress",
+        "JavaScript"
+      ],
+      "url": "https://kalidk.com/"
+    },
+    {
+      "name": "AUG Firm",
+      "isActive": true,
+      "description": "Pagina para corporativo con 5 secciones, formulario de asesoria",
+      "highlights": [
+        "Wordpress",
+        "JavaScript"
+      ],
+      "url": "https://augfirm.com/"
+    },
+    {
+      "name": "Event salon Jardin",
+      "isActive": true,
+      "description": "Landing page para salón de eventos, cuenta con 5 secciones, formulario para visita y animaciones",
+      "highlights": [
+        "Wordpress",
+        "Carrousel"
+      ],
+      "url": "http://eventsalonjardin.com/"
+      
+    },
+    {
+      "name": "Vamia Solution",
+      "description": "Landing page de 3 secciones con algunas animaciones",
+      "highlights": [
+        "Wordpress",
+        "JavaScript",
+        "Multilenguaje"
+      ],
+      "url": "https://vamiasolutions.com/"
+    },
+    {
+      "name": "Event App",
+      "isActive": true,
+      "description": "App que ofrece servicios para cumpleaños de 15 años, selec. de lugar ceremonia y evento, fecha y hora, carrito de compras con AWS, invitados e invitaciones con codigo QR",
+      "highlights": [
+        "Flutter",
+        "App"
+        
+      ]
+      
+    },
+    {
+      "name": "Heliotrope",
+      "isActive": true,
+      "description": "Moneda virtual ficticia creada para certificacion de Curso",
+      "highlights": [
+        "HTML",
+        "CSS",
+        "Bootstrap"
+      ],
+      "url": "https://heliotropehlt.netlify.app/",
+      "github": "https://github.com/GonzaloLobo/Heliotrope"
+    },
+    {
+      "name": "Calculeitor2000",
+      "isActive": true,
+      "description": "calculadora que realiza todas las operaciones comunes",
+      "highlights": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "url": "https://calculeitor2000.netlify.app/",
+      "github": "https://github.com/GonzaloLobo/Calculadora"
+    },
+    {
+      "name": "Block de notas ",
+      "isActive": true,
+      "description": "Lista de tareas para practicar javascriot",
+      "highlights": [
+        "variables de Css",
+        "JavaScript",
+        "newDate",
+        "DOM"
+      ],
+      "url": "https://notascp.netlify.app/",
+      "github": "https://github.com/GonzaloLobo/to-do-list"
+    }
+
+    
+  ]
+}
+
+
